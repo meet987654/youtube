@@ -1,4 +1,4 @@
-const API_TOKEN="AIzaSyCJggQ3oN9r7gCimRqmKpdH4pmUh9IHctQ"
+const API_TOKEN="youtube api key"
 
 export const YT_VIDS_API=" https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=US&key="+API_TOKEN;
 
